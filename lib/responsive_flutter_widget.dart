@@ -1,4 +1,4 @@
-library responsive_widget;
+library responsive_flutter_widget;
 
 import 'package:flutter/widgets.dart';
 

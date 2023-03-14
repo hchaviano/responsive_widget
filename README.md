@@ -1,4 +1,4 @@
-# Responsive Widget
+# Responsive Flutter Widget
 
 A Flutter package that provides a responsive widget template for building widgets that can adapt to different device types and screen sizes.
 
