@@ -34,6 +34,3 @@ Responsive(
 ```
 ## Contributing
 Contributions are welcome! If you have any issues or feature requests, please open a new issue on GitHub. If you would like to contribute code, please fork the repository and submit a pull request.
-
-## License
-This package is licensed under the MIT License.
